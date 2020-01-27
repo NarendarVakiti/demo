@@ -33,7 +33,7 @@ class MyMathTest {
     public void myTest() {
     	System.out.println("My Test");
     	assertEquals(10, myMath.sum(new int[] {
-    		5,5	
+    		5,5
     	}));
     }
     
